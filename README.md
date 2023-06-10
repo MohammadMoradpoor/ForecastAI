@@ -9,15 +9,16 @@ This repository contains various projects related to prediction with AI.
 - **Description:** The CryptoForecast project aims to predict the future trends and prices of various cryptocurrencies. By utilizing advanced data analysis techniques and machine learning algorithms, CryptoForecast provides valuable insights and forecasts for investors and traders in the cryptocurrency market.
 - **Link:** [CryptoForecast](https://github.com/MohamadsalehMoradpoor/ForecastAI/tree/master/CryptoForecast)
 
-### PassengerForecast
+### TimeSeriesForecast
 
-- **Description:** The PassengerForecast project focuses on predicting the number of passengers for a specific company, utilizing historical data and statistical analysis. By analyzing various factors such as seasonality, market trends, and historical patterns, PassengerForecast provides accurate forecasts and insights for the company's passenger demand, enabling better resource allocation and planning.
-- **Link:** [PassengerForecast](https://github.com/MohamadsalehMoradpoor/ForecastAI/tree/master/PassengerForecast)
+- **Description:** The TimeSeriesForecast project is aimed at utilizing SARIMAX and Prophet libraries for time series forecasting. By leveraging the capabilities of these libraries, the project focuses on accurately predicting the future passenger demand for a specific company. The insights gained from these forecasts aid in resource allocation and planning, empowering the company to make informed decisions for better passenger management.
+- **Link:** [TimeSeriesForecast](https://github.com/MohamadsalehMoradpoor/ForecastAI/tree/master/TimeSeriesForecast)
 
 ## Getting Started
 
 To get started with the projects in this repository, you can clone the repository locally by running the following command:
-```
+
+```bash
 git clone https://github.com/MohamadsalehMoradpoor/ForecastAI.git
 ```
 
