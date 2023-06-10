@@ -15,7 +15,13 @@ To use this repository, you can clone the code and utilize these two notebooks.
    git clone https://github.com/MohamadsalehMoradpoor/ForecastAI.git
    ```
 
-2. Open the desired notebook:
+2. Navigate to the project directory:
+
+   ```bash
+   cd CryptoForecast
+   ```
+
+3. Open the desired notebook:
 
    ```bash
    jupyter notebook FBProphet-TimeSeries-Forecast.ipynb
@@ -27,7 +33,7 @@ To use this repository, you can clone the code and utilize these two notebooks.
    jupyter notebook SARIMAX-TimeSeries-Forecast.ipynb
    ```
 
-3. Execute the notebook cells in order and observe the results.
+4. Execute the notebook cells in order and observe the results.
 
 ## Dependencies
 
