@@ -18,7 +18,7 @@ To use this repository, you can clone the code and utilize these two notebooks.
 2. Navigate to the project directory:
 
    ```bash
-   cd CryptoForecast
+   cd TimeSeriesForecast
    ```
 
 3. Open the desired notebook:
